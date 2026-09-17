@@ -10,7 +10,7 @@ Business Problem:
 
 Data and Tools:
 1. Dataset: Diabetes 130-US Hospitals for Years 1999-2008
-2.  # of records: ~100,000
+2. No. of records: ~100,000
 3. Description:The dataset represents ten years (1999-2008) of clinical care at 130 US hospitals and integrated delivery networks
 4. Database: MySQL Workbench
 5. Techniques Used: multi table joins, subqueries, case-based risk tiering, CTEs , Windows Functions (RANK, NTILE)
