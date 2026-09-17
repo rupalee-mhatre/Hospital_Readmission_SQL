@@ -1,7 +1,9 @@
+Hospital Readmission Analysis
+
 <img width="1998" height="1333" alt="image" src="https://github.com/user-attachments/assets/86716ade-f843-401e-b11a-f5ae62d31a48" />
 
 
-Hospital Readmission Analysis
+
  
 Business Problem:
 1. Failure to provide diabetes care increases the managing cost for the hospitals when patients are readmitted within 30 days of their discharge. It also impacts the mortality of patients who may face complications related to diabetes
